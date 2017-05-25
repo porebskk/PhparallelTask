@@ -1,0 +1,10 @@
+{
+  "name": "chewbabros/simple-parallel-task",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "autoload": {
+    "psr-0": {
+      "SimpleParallelTask": "src"
+    }
+  }
+}
